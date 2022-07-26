@@ -6,6 +6,6 @@ The current times are Mondays at 11:00pm UTC, and Tuesdays at 02:00pm UTC, repea
 
 Update: I have a conflict on August 1 and 2; let's resume on August 8 and 9.
 
-Send me a message for a meeting URL!
+Send me a message for a meeting URL! There are no appointments or reservations, so feel free to hop in any time during the hour.
 
 This is not an official Bytecode Alliance function, however I intend to follow and enforce the Bytecode Alliance Code of Conduct.
