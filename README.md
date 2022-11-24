@@ -7,3 +7,13 @@ The current times are Tuesdays at 12:00am UTC (which is on Mondays in American t
 I'll post the meeting URL on https://hachyderm.io/@sunfish/ shortly before each hour. There are no appointments or reservations, so feel free to hop in any time during the hour.
 
 This is not an official Bytecode Alliance function, however I intend to follow and enforce the Bytecode Alliance Code of Conduct.
+
+## Special Themes
+
+Some weeks have a special theme!
+
+| Date | Topic |
+| ---- | ----- |
+| 2022-12-19 | ["Unix, Plan 9, and the Lurking Smalltalk"], by Stephen Kell |
+
+["Unix, Plan 9, and the Lurking Smalltalk"]: https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf
