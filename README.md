@@ -12,8 +12,10 @@ This is not an official Bytecode Alliance function, however I intend to follow a
 
 Some weeks have a special theme!
 
-| Date | Topic |
+| Date* | Topic |
 | ---- | ----- |
 | 2022-12-19 | ["Unix, Plan 9, and the Lurking Smalltalk"], by Stephen Kell |
+
+* In some time zones, the second meeting time is on the following day.
 
 ["Unix, Plan 9, and the Lurking Smalltalk"]: https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf
