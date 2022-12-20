@@ -18,8 +18,10 @@ Some weeks have a special theme!
 | 2022-12-27 | Holiday break, no office hours |
 | 2023-01-03 | Holiday break, no office hours |
 | 2023-01-10 | ["Deconstruct Files"], by Dan Luu |
+| 2023-02-07 | ["The Zen of Python"], by Tim Peters |
 
 * In some time zones, including American time zones, the first meeting time is on the previous day.
 
 ["Unix, Plan 9, and the Lurking Smalltalk"]: https://www.humprog.org/~stephen/research/papers/kell19unix-personal.pdf
 ["Deconstruct Files"]: https://danluu.com/deconstruct-files/
+["The Zen of Python"]: https://peps.python.org/pep-0020/
