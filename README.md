@@ -21,6 +21,7 @@ Some weeks have a special theme!
 | 2023-02-07 | ["The Zen of Python"], by Tim Peters |
 | 2023-02-21 | I'm not available this week; no office hours |
 | 2023-03-21 | I'm not available this week; no office hours |
+| 2023-03-27 | I'm not available this week; no office hours
 
 * In some time zones, including American time zones, the first meeting time is on the previous day.
 
