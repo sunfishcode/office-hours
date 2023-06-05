@@ -19,7 +19,6 @@ Some weeks have a special theme!
 | 2023-01-03 | Holiday break, no office hours |
 | 2023-01-10 | ["Deconstruct Files"], by Dan Luu |
 | 2023-02-07 | ["The Zen of Python"], by Tim Peters |
-| 2023-06-05 | I'm not available at the Monday 11:00pm UTC time |
 
 * In some time zones, including American time zones, the first meeting time is on the previous day.
 
