@@ -20,6 +20,8 @@ Some weeks have a special theme!
 | 2023-01-10 | ["Deconstruct Files"], by Dan Luu |
 | 2023-02-07 | ["The Zen of Python"], by Tim Peters |
 | 2023-06-27 | No office hours |
+| 2023-09-05 | No office hours |
+
 
 * In some time zones, including American time zones, the first meeting time is on the previous day.
 
